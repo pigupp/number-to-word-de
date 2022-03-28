@@ -1,5 +1,5 @@
 def numtotext(num):
-    # Number-To-Text-Dictionary
+    # Create Dictionary
     text = {
         0: "null",
         1: "ein",
