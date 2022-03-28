@@ -1,2 +1,3 @@
-# number-to-word-de
-This Program turns an integer from 0 to 1000 and returns the
+# Number to text generator (german)
+This program returns the corresponding number word from a given integer.
+
